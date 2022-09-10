@@ -1,0 +1,3 @@
+[DEFAULT]
+list_1 = ["dog", "cat", "mouse", "cow", "pig"]
+list_2 = ["dog", "elephant", "Donkey", "Sheep","pig"]
