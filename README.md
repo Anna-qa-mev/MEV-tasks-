@@ -46,3 +46,6 @@ Code execution instruction:
 |  Input data should be represented as config file  | Done   |
 | All changes must be saved github | Done  |
 | Description of what changes were done should be added to each commit | I creted one commit with all tasks  where you may find descrition to each task and detailed instructions of ho to execute code  | 
+
+![Screenshot from 2022-09-09 16-40-19](https://user-images.githubusercontent.com/80842487/189483893-580e5e0e-4636-4001-8e44-bf5ce4249ca1.png)
+
